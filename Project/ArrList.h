@@ -2,5 +2,6 @@
 class ArrList
 {
 	//arraylists implementation
+	//.............
 };
 
